@@ -20,8 +20,8 @@ import os
 import math
 
 School = #School
-username_string = #Username
-password_string = #Password
+username_string = #natkah
+password_string = #rnz
 mode_to_play = #Gamemode To play Either Studio or Garage
 total_answers = 0;
 games_to_play = 1;
